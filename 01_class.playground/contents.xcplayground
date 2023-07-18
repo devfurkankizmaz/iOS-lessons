@@ -4,5 +4,6 @@
         <page name='Array'/>
         <page name='Set'/>
         <page name='Dictionary'/>
+        <page name='VariableAndConsts'/>
     </pages>
 </playground>
