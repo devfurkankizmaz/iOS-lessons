@@ -6,7 +6,7 @@ import Foundation
 /**A Dictionary in Swift is a collection type that allows you to store key-value pairs. Each value in the dictionary is associated with a unique key, and you can use that key to access the corresponding value efficiently.**/
 
 // 2. Creating and Declaring Dictionaries
-// In Swift, you can create a Dictionary using the following syntax:
+/** In Swift, you can create a Dictionary using the following syntax:**/
 
 // Creating a Dictionary with String keys and Int values
 var scores: [String: Int] = ["Veli": 95, "Ali": 87, "Ayşe": 72]

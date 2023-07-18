@@ -4,7 +4,7 @@ import Foundation
 /**In Swift, a variable is a named container that holds a value of a specific type. Variables can be changed after their initial assignment, making them mutable.**/
 
 // 2. Declaring Variables
-// In Swift, you can declare a variable using the var keyword, followed by the variable name and its type:
+/**In Swift, you can declare a variable using the var keyword, followed by the variable name and its type:**/
 
 var age: Int = 25
 
@@ -13,7 +13,7 @@ var age: Int = 25
 var name = "John" // Inferred as String
 
 // 3. Assigning Values to Variables
-// You can assign a new value to a variable after its declaration:
+/** You can assign a new value to a variable after its declaration:**/
 
 var score: Double = 90.5
 score = 95.0 // Reassigning the variable with a new value

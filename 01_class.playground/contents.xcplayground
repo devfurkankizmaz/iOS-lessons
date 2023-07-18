@@ -5,5 +5,14 @@
         <page name='Set'/>
         <page name='Dictionary'/>
         <page name='VariableAndConsts'/>
+        <page name='Operators'/>
+        <page name='Condition'/>
+        <page name='Loops'/>
+        <page name='Hands-On'/>
+        <page name='Hands-On-1'/>
+        <page name='Hands-On-2'/>
+        <page name='Hands-On-3'/>
+        <page name='Hands-On-4'/>
+        <page name='Hands-On-5'/>
     </pages>
 </playground>
