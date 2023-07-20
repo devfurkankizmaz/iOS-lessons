@@ -4,9 +4,8 @@
         <page name='Hands-On-2'/>
         <page name='Hands-On-3'/>
         <page name='Enum'/>
-        <page name='Hands-On-4'/>
         <page name='ArrayManipulating'/>
         <page name='Hands-On-1'/>
-        <page name='Hands-On-5'/>
+        <page name='Hands-On-4'/>
     </pages>
 </playground>

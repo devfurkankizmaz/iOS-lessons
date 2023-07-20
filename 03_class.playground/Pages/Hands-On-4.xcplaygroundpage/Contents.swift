@@ -1,4 +1,4 @@
-// Hands-On #5
+// Hands-On #4
 
 // Define the main function
 func main() {
@@ -56,3 +56,4 @@ func showBMIStatus(bmiArr: [(name: String, bmi: Double, status: BMI)]) {
 // ---Start--- //
 main()
 // ----------- //
+
