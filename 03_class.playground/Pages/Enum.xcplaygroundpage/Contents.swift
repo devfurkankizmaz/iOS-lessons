@@ -4,16 +4,16 @@
 func main() {
     // Call the "checkDirection" function with the "Compass.north" as an argument.
     checkDirection(Compass.north)
-    
+
     // Create a constant "day" of type "Weekdays" and assign the value "Weekdays.sunday" to it.
     let day = Weekdays.sunday
-    
+
     // Call the "isWeekend" function on the "day" constant to check if it's a weekend day.
     print(day.isWeekend())
-    
+
     // Create a constant "car" of type "Vehicle" and assign the value "Vehicle.audi(1000, "White", 200)" to it.
     let car = Vehicle.audi(1000, "White", 200)
-    
+
     // Print the "car" constant, which will display its associated values (cc, color, speed).
     print(car)
 }
@@ -27,7 +27,7 @@ enum Vehicle {
 // Define an enumeration called "Weekdays" representing different days of the week.
 enum Weekdays {
     case sunday, monday, tuesday, wednesday, thursday, friday, saturday
-    
+
     // Define a method called "isWeekend" that returns a boolean indicating if the day is a weekend day (Sunday or Saturday).
     func isWeekend() -> Bool {
         switch self {
