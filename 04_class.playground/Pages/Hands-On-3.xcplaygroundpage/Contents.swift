@@ -24,6 +24,8 @@ main()
 
 func weatherStatus(_ city: String) -> String {
     var status = ""
+    // let filteredData = arr.filter { $0.city == city }
+
     arr.forEach { c in
         if c.city == city {
             switch c.weather {
